@@ -3,7 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=notemmi&label=views&color=df34c3&style=flat-square" alt="notemmi" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=notemmi" alt="notemmi" /></a> </p>
 
 - 🔭 I’m currently working on **DuckBot**
 
