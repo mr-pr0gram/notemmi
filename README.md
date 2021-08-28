@@ -12,7 +12,7 @@
 
 - 📫 How to reach me **Emmi@cxloud.cc**
 
-- ⚡ Fun fact **I coded since 1st Grade(python 2.7.5)**
+- ⚡ Fun fact **I've coded since 1st Grade(python 2.7.5)**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
