@@ -10,7 +10,7 @@
 
 - 👨‍💻 All of my projects are available at [cxloud.cc](cxloud.cc)
 
-- 📫 How to reach me **Emmi@cxloud.cc**
+- 📫 How to reach me **west@cxloud.cc**
 
 - ⚡ Fun fact **I've coded since 1st Grade(python 2.7.5)**
 
