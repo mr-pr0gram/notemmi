@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently working on **DuckBot**
 
-- 🌱 I’m currently learning **TypeScript/JavaScript**
+- 🌱 I’m currently learning **JavaScript/React**
 
 - 👨‍💻 All of my projects are available at [cxloud.cc](cxloud.cc)
 
