@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm West</h1>
-<h3 align="center">An Adderall addicted 14 year old</h3>
+<h3 align="center">An Vyvanse addicted 15 year old</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=notemmi&label=views&color=df34c3&style=flat-square" alt="notemmi" /> </p>
 
