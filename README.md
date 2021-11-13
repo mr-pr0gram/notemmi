@@ -4,7 +4,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=notemmi&label=views&color=df34c3&style=flat-square" alt="notemmi" /> </p>
 
 
-- 🔭 I’m currently working on **DuckBot**
+- 🔭 I’m currently working on **therapy for ** [wozzez](github.com/wozniak)
 
 - 🌱 I’m currently learning **JavaScript/React**
 
