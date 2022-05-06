@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm West</h1>
-<h3 align="center">An Vyvanse addicted 15 year old</h3>
+<h1 align="center">Hi 👋, I'm Emily</h1>
+<h3 align="center">A Vyvanse addicted 15 year old</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=notemmi&label=views&color=df34c3&style=flat-square" alt="notemmi" /> </p>
 
@@ -16,7 +16,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/notnotwest" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="notnotemmi" height="30" width="40" /></a>
+<a href="https://twitter.com/omgemmi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="notnotemmi" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
