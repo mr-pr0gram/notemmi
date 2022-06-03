@@ -8,10 +8,6 @@
 
 - 🌱 I’m currently learning **JavaScript/React**
 
-- 👨‍💻 All of my projects are available at [cxloud.cc](cxloud.cc)
-
-- 📫 How to reach me **west@cxloud.cc**
-
 - ⚡ Fun fact **I've coded since 1st Grade(python 2.7.5)**
 
 <h3 align="left">Connect with me:</h3>
