@@ -1,10 +1,10 @@
 <h1 align="center">Hi 👋, I'm Emily</h1>
-<h3 align="center">A Vyvanse addicted 15 year old</h3>
+<h3 align="center">She/Her // okemily#7576</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=notemmi&label=views&color=df34c3&style=flat-square" alt="notemmi" /> </p>
 
 
-- 🔭 I’m currently working on therapy for [wozzez](https://github.com/wozniak)
+- 🔭 I’m currently working on nothing (taking a break)
 
 - 🌱 I’m currently learning **JavaScript/React**
 
