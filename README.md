@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Emily</h1>
-<h3 align="center">She/Her // [Email](mailto:emily@proton.me)</h3>
+<h3 align="center">She/Her // emily@proton.me </h3>
 
 
 <h3 align="left">Languages and Tools:</h3>
